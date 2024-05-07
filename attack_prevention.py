@@ -141,7 +141,7 @@ def update_output(n_clicks, value):
                     </script>
                     <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
                 </body>
-            </html>'''.replace('YOUR_API_KEY', 'AIzaSyCSxZ8cNMClnXIl8tNxInhZftWLlUBHk94'),
+            </html>'''.replace('YOUR_API_KEY', 'YOUR_API_KEY'),
             style={'border-width': '0', 'width': '100%', 'height': '600px'}
         )
     ])

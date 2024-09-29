@@ -37,3 +37,6 @@ Please remember to follow our Code of Conduct when interacting with this reposit
 This project is licensed under the MIT License.
 
 We hope you enjoy your time here and that together we can make this repository a valuable resource for the advanced Python community!
+
+pip install pyaudio --trusted-host pypi.org --trusted-host files.pythonhosted.org
+

@@ -1,0 +1,19 @@
+body {
+    background-color: #2C2C34;
+    color: #FFC0CB;
+}
+
+.navbar {
+    background-color: #FF69B4;
+    border-color: #FF69B4;
+}
+
+.sidebar {
+    background-color: #3A3A44;
+    color: #FFC0CB;
+}
+
+.btn-primary {
+    background-color: #FF69B4;
+    border-color: #FF69B4;
+}
